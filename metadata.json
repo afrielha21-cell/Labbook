@@ -1,0 +1,6 @@
+{
+  "name": "LABBOOK",
+  "description": "Indonesia's first integrated laboratory marketplace and research execution platform designed for researchers, students, and industries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
